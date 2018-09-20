@@ -1,0 +1,136 @@
+
+
+	
+body{
+
+	background-color: black;
+
+}
+
+.btn-outline-warning{
+	display: inline-block;
+	position: relative;
+	left: 50%;
+	top: 50px;
+	transform: translateX(-50%);
+	margin left: 200px;
+	margin-right: 75px;
+	font-family: 'Teko', sans-serif;
+	color: white;
+	font-size: 1.8em;
+	outline-color: yellow;
+	
+	
+}
+
+.btn-outline-warning:hover{
+	color: black;
+	background-color:	yellow;
+
+}
+
+h1{
+	position: relative;
+	text-align: center;
+	top: 415px;
+	font-family: 'Teko', sans-serif;
+	font-size:4em;
+	color: white;
+	transition: 3s;
+
+}
+
+h1:hover{
+		transform: scale(1.5);
+		color: rgb(255,235,0);
+
+}
+
+.strap-line{		
+
+text-align: center;
+position: relative;
+left:250px;
+top: 425px;
+font-family: 'Teko', sans-serif;
+color: white;
+font-size: 2em;
+text-decoration: underline;
+text-decoration-color: yellow;
+
+}
+
+img{
+	margin: 25px;
+	border: 5px solid black;
+	border-radius: 50%;
+	position: relative;
+	top: -100px;
+	height: 250px;
+	width: 250px;
+	float:left;
+	transition: 2s;
+
+}
+
+img:hover{
+
+	transform: scale(1.2);
+	border-color: black;
+
+
+}
+
+h2{
+
+	position: relative;
+	bottom: 50px;
+	font-family: 'Shadows Into Light', cursive;
+	text-align: center;
+	color:	white;
+	background-color: rgba(227,209,0,0.5);
+}
+
+p{
+	font-family: 'Shadows Into Light', cursive;
+	position: relative;
+	top: 450px;
+	border: 1px solid yellow;
+	padding: 20px;
+	margin-left: 250px;
+	margin-right: 250px;
+	background-color: rgba(227,209,0,0.5);
+	position: relative;
+	text-align: center;
+	font-size: 1.5em;
+	color:	white;
+	transition: 3s;
+    
+}
+
+
+}
+
+.btn-primary{
+
+	background-color: red;
+	font-family: 'Teko', sans-serif;
+	color: white;
+	font-size: 1.8em;
+	transition: 5s;
+
+}
+
+.btn-primary:hover{
+
+	color:	white;
+	transform: scale(1.2);
+	border-color: white;
+
+
+}
+
+
+}
+
+https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
